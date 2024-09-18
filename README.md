@@ -1,2 +1,2 @@
 # IQUANT
-IqQuant代码
+IQuant代码
